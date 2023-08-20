@@ -10,3 +10,16 @@ h1{
     text-align: center;
 }
 
+.skills{
+    list-style-type: disc;
+    list-style-position: outside;
+    color: blue;
+    margin: 5px
+}
+
+.image-profile{
+    width: 100px;
+    height: 100px;
+    
+    
+}
